@@ -15,3 +15,6 @@ For different networks, I calculated these metrics.
 
 3- Suppose the installation cost from different networks is the same. Also, each contact_get for us is 10 $, and each
 submit_post_new is worth 100 $. I Compared the performance of networks in terms of the amount of value created by their installations
+
+The follow-up documentation illustrates my idea and results:
+https://docs.google.com/document/d/13N9yBiMuy8chsdqXdtgD2DGH5mx1uLxDzNbxFnBljSA/edit?usp=sharing
